@@ -12,3 +12,4 @@ int calculate() {
 
 // 5th test comment
 
+// 6th test comment
